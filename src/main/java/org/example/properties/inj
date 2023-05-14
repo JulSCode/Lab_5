@@ -1,0 +1,2 @@
+org.example.interfaces.SomeInterface = org.example.interfaces.SomeImpl
+org.example.interfaces.SomeOtherInterface = org.example.interfaces.SODoer
